@@ -29,7 +29,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open control panel > Programs > Turn Windows features on or off. Turn "Internet Information Services" On. Expand "Internet Information Services" and make sure "Web Management Tools" and World Wide Web Services" and checked. Expand "World Wide Web Services" > "Application Developmrnt Features" and check "CGI".
+  From "World Wide Web Services" > "Common HTTP Features", make sure everything is checked on.
 </p>
 <br />
 
