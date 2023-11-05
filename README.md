@@ -34,11 +34,11 @@ Open control panel > Programs > Turn Windows features on or off. Turn "Internet 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/Buddkyle/osticket-prereqs/assets/149748803/2f34c31c-197f-40e3-b7f9-1329f568d3ab)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open a web browser and go to "127.0.0.1" to ensure the change was made correctly
 </p>
 <br />
 
